@@ -7,3 +7,4 @@ creating a new branch is quick and simple.
 b
 c
 d
+e
