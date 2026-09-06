@@ -5,3 +5,4 @@ git tracks changes of files.
 a
 creating a new branch is quick and simple.
 b
+c
