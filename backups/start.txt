@@ -1,0 +1,4 @@
+# uv run python -m myapi.init_db
+# uv run pytest -v
+
+# uv run .venv\Scripts\python.exe -m uvicorn myapi.main:app --reload
